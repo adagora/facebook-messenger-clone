@@ -1,4 +1,4 @@
-[https://github.com/adagora/facebook-messenger-clone.git](LIVE VERSION, CLICK HERE)
+[https://facebook-messenger-clone-7f687.web.app/](LIVE VERSION)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
